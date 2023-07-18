@@ -11,8 +11,8 @@ let respecConfig = {
   
   previousVersion: "0.0.3",
   previousPublishDate: "2023-06-24",
-  previousMaturity: "WV",
-  title: "titleText",
+  previousMaturity: "DEF",
+  title: "ReSpec test",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
     [
