@@ -13,6 +13,8 @@ let respecConfig = {
   previousPublishDate: "2023-07-01",
   previousMaturity: "WV",
   prevVersion: "ThePreviousVersionTest",
+  prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "previousMaturity", "-", "specType", "-", "shortName", "-", "previousPublishDate"],
+  
   title: "ReSpec test",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
