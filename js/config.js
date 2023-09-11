@@ -12,7 +12,8 @@ let respecConfig = {
   previousVersion: "0.0.4",
   previousPublishDate: "2023-07-01",
   previousMaturity: "WV",
-  prevVersion: "ThePreviousVersionTest",
+  latestVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName"],
+  thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "specStatus", "-", "specType", "-", "shortName", "-", "publishDate"],
   prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "previousMaturity", "-", "specType", "-", "shortName", "-", "previousPublishDate"],
   
   title: "ReSpec test",
