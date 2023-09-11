@@ -5,13 +5,14 @@ let respecConfig = {
   specStatus: "WV",
   specType: "HR",
   pubDomain: "ep",
-  shortName: "ReSpec ep test",
-  publishDate: "2023-07-01",
-  publishVersion: "0.0.4",
+  shortName: "ReSpecTest",
+  publishDate: "2023-09-01",
+  publishVersion: "0.0.5",
   
-  previousVersion: "0.0.3",
-  previousPublishDate: "2023-06-24",
-  previousMaturity: "DEF",
+  previousVersion: "0.0.4",
+  previousPublishDate: "2023-07-01",
+  previousMaturity: "WV",
+  prevVersion: "ThePreviousVersionTest"
   title: "ReSpec test",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
