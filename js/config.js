@@ -12,7 +12,7 @@ let respecConfig = {
   previousVersion: "0.0.4",
   previousPublishDate: "2023-07-01",
   previousMaturity: "WV",
-  prevVersion: "ThePreviousVersionTest"
+  prevVersion: "ThePreviousVersionTest",
   title: "ReSpec test",
   content: {"ch01": "informative", "ch02": "", "mermaid": ""},
   editors:
